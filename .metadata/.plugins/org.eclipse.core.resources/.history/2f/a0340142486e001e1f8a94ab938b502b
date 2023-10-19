@@ -1,0 +1,12 @@
+package com.gopal;
+
+public class Iphone13 {
+	
+	private AppleCharger appleCharger;
+	
+	public void chargePhone() {
+		
+		appleCharger.chargePhone();
+	}
+
+}

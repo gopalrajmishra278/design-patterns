@@ -1,0 +1,11 @@
+package com.gopal;
+
+public class GMCharger implements AndroidCharger{
+	
+	void chargerAndroidPhone() {
+		
+		System.out.println("Your android charger...");
+	}
+	
+	
+}

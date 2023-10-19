@@ -1,0 +1,7 @@
+package com.gopal;
+
+public class Iphone13 {
+	
+	private String AppleCharger;
+
+}
